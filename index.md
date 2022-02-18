@@ -35,7 +35,6 @@
   
  <CENTER> <button type="button" class="btn btn-primary">DOWNLOAD OR UPDATE APP</button></CENTER>
 <BR/>
-    <BR/>
         <a href="https://T.ME/GANTECHS" target="_blank">
 	<CENTER><button>JOIN US ON TELEGRAM</button></CENTER>
             
