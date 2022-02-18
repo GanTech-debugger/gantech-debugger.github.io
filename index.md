@@ -31,18 +31,22 @@
 
 
 <BR/>
-    <a href="http://T.ME/GANTECHS" target="_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.gtun.vpn" target="_blank">
   
- <CENTER> <button type="button" class="btn btn-primary">JOIN US ON TELEGRAM</button></CENTER>
+ <CENTER> <button type="button" class="btn btn-primary">DOWNLOAD OR UPDATE APP</button></CENTER>
 <BR/>
     <BR/>
-        <a href="https://play.google.com/store/apps/details?id=com.gtun.vpn" target="_blank">
-	<CENTER><button>Download Or Update App</button></CENTER>
+        <a href="https://T.ME/GANTECHS" target="_blank">
+	<CENTER><button>JOIN US ON TELEGRAM</button></CENTER>
             
             <BR/>
         <a href="https://T.ME/MRGANPREMIUMBOT" target="_blank">
 	<CENTER><button>CONTACT US!</button></CENTER>
               <BR/>
-            <i style="text-align:left;">Design by Gantech.</i>
+		
+		<BR/>
+        <a href="https://gantech-debugger.github.io/privacy" target="_blank">
+	<CENTER><button>PRIVACY POLICY</button></CENTER>
+              <BR/>            <i style="text-align:left;">Design by Gantech.</i>
           
         
