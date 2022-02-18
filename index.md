@@ -39,14 +39,12 @@
         <a href="https://T.ME/GANTECHS" target="_blank">
 	<CENTER><button>JOIN US ON TELEGRAM</button></CENTER>
             
-            <BR/>
-        <a href="https://T.ME/MRGANPREMIUMBOT" target="_blank">
-	<CENTER><button>CONTACT US!</button></CENTER>
-              <BR/>
-		
 		<BR/>
         <a href="https://gantech-debugger.github.io/privacy" target="_blank">
 	<CENTER><button>PRIVACY POLICY</button></CENTER>
-              <BR/>            <i style="text-align:left;">Design by Gantech.</i>
+		    <BR/>
+        <a href="https://T.ME/MRGANPREMIUMBOT" target="_blank">
+	<CENTER><button>CONTACT US!</button></CENTER>
+              <BR/>              <BR/>            <i style="text-align:left;">Design by Gantech.</i>
           
         
