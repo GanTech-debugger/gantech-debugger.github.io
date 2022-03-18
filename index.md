@@ -18,7 +18,7 @@
       font-family: sans-serif;
       }
     </style>
-        <marquee>  <center>  <h1>WELCOME TO GTUN VPN OFFICIAL WEBSITE</h1> </center></marquee>
+        <marquee>  <center>  <h3>WELCOME TO GTUN VPN OFFICIAL WEBSITE</h3> </center></marquee>
        
     <center>    <h3>FAST AND PRIVATE UNLIMITED TUNNEL</h3></center>
         
@@ -39,7 +39,7 @@
 	<CENTER><button>JOIN US ON TELEGRAM</button></CENTER>
             
 		<BR/>
-        <a href="https://gantech-debugger.github.io/privacy" target="_blank">
+        <a href="https://gantech2022.github.io/privacy" target="_blank">
 	<CENTER><button>PRIVACY POLICY</button></CENTER>
 		    <BR/>
         <a href="https://T.ME/MRGANPREMIUMBOT" target="_blank">
